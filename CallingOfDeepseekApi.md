@@ -1,1 +1,1 @@
-# AI-Learning-Blog.github.io
+# AI-Learning-Blog
