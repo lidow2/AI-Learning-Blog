@@ -23,9 +23,9 @@ C. Brief introduction to the "Temperature"
    Some ranges from 0-1, some is (0,1], while some can set the temper larger than one   
 
 D. Follow-up question
-When asking new question, DeepSeek would think over the connection between the current question and the former ones
-**It is the function that only AI can realize**
-If you search two questions sequentially in the search engineering, such as google
+When asking new question, DeepSeek would think over the connection between the current question and the former ones.
+**It is the function that only AI can realize.**
+If you search two questions sequentially in the search engineering, such as google.
 You can never get the correct answer in the following way:
 1st question: "What's the highest mountain"
 2nd question: "What about the 2nd?"
