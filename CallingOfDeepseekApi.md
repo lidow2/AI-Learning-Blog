@@ -34,3 +34,12 @@ It's the way DeepSeek realize the above function
 
 In the follow-up question, the former answer would be added in the  content
 
+
+E. The process of function calling
+
+define the function in the tool lists, very similar to the function definition in python
+
+The following codes are the key points of function calling
+
+
+F. Vllm demo
