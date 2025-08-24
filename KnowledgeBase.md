@@ -36,5 +36,10 @@ click
 (10)
 
 set the parameter of the knowledge base
-searching strategy: Semantics​
+searching strategy: 
+1. Semantics: Search by the text relevance
+   For an example, if you input Chinese, its corresponding English meaning would also appear in the output result
+2. Full text: If you hope the output result would be highly relevant to the prompt, it's a good choice
+3. Mix: Combine the features of the above two
+ ​
 (11)
